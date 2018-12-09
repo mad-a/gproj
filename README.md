@@ -1,1 +1,1 @@
-"# gproj" 
+Project environment allowing me to learn django framework
